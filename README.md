@@ -1,5 +1,5 @@
 
-#Travelbuddy website
+## Travelbuddy Website
 
 This is live and responsive travel website.
 When you open this website, there is one navigation bar on the top.
